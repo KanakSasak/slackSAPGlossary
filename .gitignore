@@ -11,5 +11,10 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+go.mod
+go.sum
+.env
+gcpkey.json
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
